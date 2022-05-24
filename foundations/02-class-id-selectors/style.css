@@ -1,0 +1,18 @@
+/* styles.css */
+
+.subsection {
+    background-color: rgba(255, 167, 167, 255);
+    font-family: "Verdana", "DejaVu sans", sans-serif;
+}
+.header {
+    font-size: 24px;
+}
+#title {
+    color:rgba(0, 0, 255, 255);
+    font-size: 36px;
+}
+#subheader {
+    background-color: rgba(128, 255, 128, 255);
+    font-size: 24px;
+    font-weight: bold;
+}
